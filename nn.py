@@ -1,7 +1,7 @@
 import numpy
 import scipy.special
 
-class neuralNetwork:
+class NeuralNetwork:
 
     #Create neural network
     def __init__(self, inputNodes, hiddenNodes, outputNodes, learningRate):
